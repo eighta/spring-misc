@@ -1,2 +1,2 @@
 # spring-misc
-Conceptor generales de spring
+spring en general
